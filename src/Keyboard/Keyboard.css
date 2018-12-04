@@ -1,0 +1,25 @@
+.keyboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.keyboard > .letter {
+  margin-top: 3%;
+  margin-left: 7px;
+  margin-right: 7px;
+  width: 40px;
+  height: 40px;
+  font-size: 1.5em;
+  color: white;
+  display: flex;
+}
+.keyboard > .letter {
+  align-items: center;
+  justify-content: center;
+}
+
+.keyboard>.letter:hover {
+  font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.count {
+  margin-left: 20%;
+  margin-top: 7%;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+.state {
+  margin-top: 20px;
+  border: solid #282c34;
+  border-radius: 6px;
+}
