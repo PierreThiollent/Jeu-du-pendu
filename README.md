@@ -9,7 +9,7 @@ Cette application à été créée à l'aide de [create-react-native-app](https:
 
 ### Pré-requis
 
-Installer expo-cli à l'aide de cette commande : 
+Installer create-react-app à l'aide de cette commande : 
 
 ```sh
 $ npm install -g create-react-app
