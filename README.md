@@ -20,6 +20,7 @@ $ npm install -g create-react-app
 Télécharger le projet et lancer le serveur node :
 
 ```sh
+$ git clone https://github.com/PierreThiollent/Jeu-du-pendu.git
 $ cd Jeu-du-pendu
 $ npm start
 ```
