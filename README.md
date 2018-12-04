@@ -1,6 +1,6 @@
 # Jeu du pendu
 
-Ce projet est un exercice Open Classroom sur le Framework React JS.
+Ce projet est un exercice sur le Framework React JS.
 
 
 ## Getting started
